@@ -1,0 +1,37 @@
+/* CSS files add styling rules to your content */
+
+body{
+font-family: courier, sans-serif;
+font-size:15px;
+color: #F4EED4;
+line-height:1;
+background-color: #0f3923;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+}
+
+.bullets {
+color: white;   
+}
+
+img{max-width:100%;}
+
+/* unvisited link */
+a:link {
+  color: #D1240D;
+}
+
+/* visited link */
+a:visited {
+  color: #D1240D;
+}
+  
+#maincontent{
+    max-width: 42em;
+    margin: 15 auto;
+}
+    
+}
