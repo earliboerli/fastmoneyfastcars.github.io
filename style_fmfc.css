@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body{
+font-family: courier, sans-serif;
+font-size:14px;
+color: black;
+line-height:1.2;
+background-color: white;
+text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+}
+
+.bullets {
+color: white;   
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+#maincontent{
+    max-width: 42em;
+    margin: 15 auto;
+}
+    
+}
